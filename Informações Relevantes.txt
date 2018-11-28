@@ -1,0 +1,9 @@
+MAC Master: 2C 3A E8 43 93 37
+MAC Slave: 2C 3A E8 43 BF 2F
+
+UID Cartão: 30 3C 3C A6
+UID Chaveiro: ED DF B0 79 
+
+Portas livres:
+- Master: D0, D2, D4
+- Slave: D0, D2, D3, D4, D5, D6, D7, D8
